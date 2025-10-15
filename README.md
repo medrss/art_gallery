@@ -5,7 +5,7 @@
 ### Исполняемый файл
 Файл `information_system.exe` доступен:
 - в ветке `master` по пути `x64/Debug`
-- в разделе [Releases](https://github.com/art_gallery/releases)
+- в разделе [Releases](https://github.com/art_gallery.git/releases)
 
 ---
 
