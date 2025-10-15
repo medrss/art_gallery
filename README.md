@@ -5,7 +5,7 @@
 ### Исполняемый файл
 Файл `information_system.exe` доступен:
 - в ветке `master` по пути `x64/Debug`
-- в разделе [Releases](https://github.com/art_gallery.git/releases)
+- в разделе [Releases](https://github.com/medrss/art_gallery/releases)
 
 ---
 
@@ -16,4 +16,4 @@ Its a console application that implements a single-file database for storing inf
 ### Executable
 The `information_system.exe` file is available:
 - in the `master` branch under `x64/Debug`
-- in the [Releases](https://github.com/art_gallery/releases) section
+- in the [Releases](https://github.com/medrss/art_gallery/releases) section
